@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Londrina+Solid:900|Roboto&display=swap');
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+
+  color: #222;
+  line-height: 1.5;
+  background-color: rgb(230,230,250);
+}
+
+header {
+  background-color: #0;
+}
+
+h1, h2, h3 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: 800;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+nav {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+nav ul {
+  padding-left: 0;
+	list-style: none;
+	margin: 0;
+}
+
+nav li {
+  display: inline;
+	margin-right: 2rem;
+}
+
+main {
+  padding-left: 0;
+  margin-right: 4rem;
+}
+
+a {
+  color: rgb(16,84,222);
+}
+
+a:visited {
+  color: rgb(116,40,194);
+}
+
+a:hover {
+  color: rgb(194,39,39);
+}
+
+footer {
+  margin-top: 1.5rem;
+  border-top: 1px solid #0;
+}
+
+footer p {
+  color: #0;
+  font-size:  .75rem;
+}
+
+aside #poems {
+  display: inline;
+}
