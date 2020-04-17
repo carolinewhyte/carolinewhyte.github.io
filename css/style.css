@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Playfair Display", serif;
   display: block;
   color: #222;
   line-height: 1.5;
@@ -25,7 +25,7 @@ main {
 }
 
 h1, h2, h3 {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Playfair Display", serif;
   font-weight: 800;
 }
 
